@@ -7,3 +7,10 @@ h1 {
     color: navy;
     margin-left: 20px;
 }
+
+button {
+    font-family:"Helvetica";
+    margin-left: 20px;
+    font-size: 12px;
+    border-radius: 2px;
+}
