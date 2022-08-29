@@ -31,11 +31,13 @@ h1 {
     font-family:"Helvetica";
     margin-left: 20px;
     font-size: 40px;
+    color: #402a0d;
 }
 
 #two {
     font-family:"Helvetica";
     margin-left: 20px;
+    color: #402a0d;
 }
 
 .button {
