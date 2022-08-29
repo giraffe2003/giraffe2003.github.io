@@ -4,7 +4,8 @@ body {
 
 h1 {
     font-family:"Helvetica";
-    color: navy;
+    font-size: large;
+    color: #402a0d;
     margin-left: 20px;
 }
 
