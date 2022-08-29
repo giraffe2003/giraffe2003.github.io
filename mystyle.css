@@ -24,7 +24,13 @@ h1 {
     background-color: #edc898;
 }
 
-p {
+.p1 {
+    font-family:"Helvetica";
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.p2 {
     font-family:"Helvetica";
     margin-left: 20px;
 }
