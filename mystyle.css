@@ -8,7 +8,19 @@ h1 {
     margin-left: 20px;
 }
 
+#tab {
+    width: 100%; height: 60px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
 
+#colorstrip {
+    width: 100%; height: 200px;
+    border-style: solid;
+    border-color: beige;
+    background-color: beige;
+}
 
 p {
     font-family:"Helvetica";
