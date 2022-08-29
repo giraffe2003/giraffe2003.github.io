@@ -24,13 +24,13 @@ h1 {
     background-color: #edc898;
 }
 
-.p1 {
+#one {
     font-family:"Helvetica";
     margin-left: 20px;
     font-size: 40px;
 }
 
-.p2 {
+#two {
     font-family:"Helvetica";
     margin-left: 20px;
 }
